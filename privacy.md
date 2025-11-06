@@ -7,6 +7,7 @@ The Application collects information when you download and use it. This may incl
 - Precise geolocation (latitude and longitude) necessary for gameplay
 - Diagnostic logs (e.g., error messages) may be collected for troubleshooting. Automatic crash reporting is not implemented at this time.
 - Password (for authentication). Passwords are processed solely via Firebase Authentication and are not stored by the Service Provider.
+- Email Address (for account authentication and for contacting you with important notices regarding the service)
 The Application collects your device's location solely to enable core gameplay features, including:
 
 - Map rendering, Street View interactions, guessing locations, and scoring
