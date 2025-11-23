@@ -1,111 +1,110 @@
-Geo Wander Terms of Service
-These Terms of Service (hereinafter referred to as the "Terms") set forth the conditions for using the mobile application "Geo Wander" (hereinafter referred to as the "Application") provided by SOICHI SATO (hereinafter referred to as the "Service Provider"). Customers who use this Application (hereinafter referred to as "Users") shall use this Application upon agreeing to these Terms.
+# Geo Wander Terms of Service
 
-Article 1 (Agreement to these Terms)
-Users must use the Application in accordance with these Terms.
+These Terms of Service (hereinafter referred to as "these Terms") set forth the conditions for the use of the mobile application "Geo Wander" (hereinafter referred to as "this Application") provided by SOICHI SATO (hereinafter referred to as "Service Provider") as a commercial service. Users of this Application (hereinafter referred to as "Users") shall use this Application in accordance with these Terms.
 
-Users are deemed to have validly and irrevocably agreed to these Terms at the time they download, install, or begin using the Application.
+## Article 1 (Agreement to These Terms)
 
-Article 2 (Account Registration)
-To use certain features of the Application, Users are required to register an account using an email address and password.
+Users must use this Application in accordance with these Terms.
 
-Users must manage their registration information strictly at their own risk to prevent unauthorized use.
+Users shall be deemed to have given valid and irrevocable consent to these Terms at the time they press the "Agree and Continue" button on the consent screen displayed when this Application is first launched, after reviewing these Terms and the Privacy Policy.
 
-The Service Provider will deem any login using a matching registered email address and password combination as an act by the User themselves.
+## Article 2 (Service Content)
 
-Article 3 (Service Content)
-The Application is a game service where Users use their device's location information and a provided Street View image (hint) to find a destination by actually walking.
+This Application is a game service where users utilize their device's location information and provided Street View images (hints) to find a destination by actually walking.
 
-The Application offers a "Free Plan" (available at no cost) and a "Pro Plan" (paid).
+This Application offers a free "Free Plan" and a paid "Pro Plan".
 
-Free Plan: Gameplay is limited to once per day, and the playable area is restricted to the "500m" range only.
+**Free Plan**: Gameplay is limited to once per day, and playable areas are restricted to a "350m" radius only.
 
-Pro Plan: The gameplay count limit is removed, and all playable ranges (e.g., 250m, 500m, 1000m, 2000m) become selectable.
+**Pro Plan**: Gameplay frequency restrictions are removed, and all playable ranges (250m, 350m, 750m, 1500m) become selectable.
 
-Photo Handling: Photos captured in-app are used locally to generate share images and are not uploaded to servers. Session data may include a local device URI string, but the image itself is not stored in the cloud.
+**Photo Handling**: Photos captured within the app are used locally (on the device) to generate share images and are not uploaded to servers.
 
-Article 4 (Pro Plan: Subscription)
+## Article 3 (Pro Plan: Subscription)
+
 The Pro Plan is an auto-renewing subscription service billed monthly or annually.
 
-Payment will be charged to the User's Apple ID account via the Apple App Store.
+Payments are charged to the user's Apple ID account through the Apple App Store.
 
-Subscription Cancellation (Stopping Auto-Renewal):
+**Cancellation of Subscription (Stopping Auto-Renewal)**:
 
-Users must cancel the subscription themselves through their iOS device's "Settings" (Subscription Management) screen at least 24 hours before the next renewal date.
+Users must cancel their subscription at least 24 hours before the next renewal date through the "Settings" (Subscription Management) screen on their iOS device.
 
-Please note that uninstalling (deleting) the Application alone will not cancel your subscription.
+Please note that simply uninstalling (deleting) this Application will not cancel the subscription.
 
-If the cancellation procedure is not completed within the specified period, the subscription will automatically renew, and the fee will be charged.
+If cancellation procedures are not completed within the specified period, the subscription will automatically renew and charges will be applied.
 
-Except as required by law, the Service Provider will not issue refunds for any fees already paid.
+Except as required by law, the Service Provider will not provide any refunds for fees already paid.
 
-The Service Provider may change the price or features of the Pro Plan with prior notice to the User.
+The Service Provider may change the price or features of the Pro Plan with prior notice to users.
 
-Article 5 (Prohibited Conduct)
-Users shall not engage in the following acts when using the Application:
+## Article 4 (Prohibited Acts)
 
-Acts that threaten safety:
+Users shall not engage in the following acts when using this Application:
 
-Operating the Application while driving (including cars and bicycles) or operating a smartphone while walking ("Aruki-Sumaho").
+**Acts that endanger safety**:
 
-Operating the Application in situations where the safety of the surroundings (people, cars, obstacles, etc.) cannot be confirmed.
+- Operating this Application while driving (including automobiles and bicycles) or while walking.
+- Operating this Application in situations where the safety of the surroundings (people, vehicles, obstacles, etc.) cannot be confirmed.
 
-Improper Use:
+**Unauthorized use**:
 
-Spoofing (falsifying) location information (GPS) or using tools that do so.
+- Spoofing location information (GPS) or using tools for such purposes.
+- Reverse engineering or manipulating the game through other unauthorized means.
 
-Sharing, transferring, or lending an account to a third party.
+**Infringement of rights**:
 
-Unauthorized access to the Application's servers, reverse engineering, or manipulating the game through other fraudulent means.
+- Acts that infringe upon the intellectual property rights, privacy, portrait rights, or other rights of the Service Provider or third parties.
+- Using this Application's photo capture feature to take or share photos on social media that infringe upon others' privacy.
 
-Infringement of Rights:
+**Other**:
 
-Acts that infringe upon the intellectual property rights, privacy, portrait rights, or other rights of the Service Provider or third parties.
+- Acts that violate laws or public order and morals.
+- Acts that interfere with the operation of this Application.
 
-Using the Application's photo-taking feature to capture or share photos via SNS that infringe upon the privacy of others.
+## Article 5 (Disclaimer)
 
-Other:
+**Safety Disclaimer**:
 
-Acts that violate laws or public order.
+The Service Provider shall not be liable for any accidents, injuries, damages (property or personal), or troubles (between users or with third parties) arising from the use of this Application. Users shall use this Application at their own risk, always paying maximum attention to the safety of their surroundings.
 
-Acts that interfere with the operation of the Application.
+**"As Is" Provision**:
 
-Article 6 (Disclaimers)
-Disclaimer Regarding Safety:
+The Service Provider does not guarantee that this Application will meet the user's specific purposes, be free of errors or bugs, or be available without interruption. This Application is provided "as is".
 
-The Service Provider shall not be liable for any accident, injury, damage (physical or property), or trouble (between Users or with third parties) arising from the User's use of the Application. Users must always give maximum consideration to their surroundings and use the Application at their own risk.
+**Accuracy of Information**:
 
-"AS IS" Provision:
+The Service Provider does not guarantee the accuracy, completeness, or timeliness of information provided by this Application, including location information (GPS), maps, or Street View hints.
 
-The Service Provider does not guarantee that the Application will be fit for the User's specific purpose, free of errors or bugs, or available without interruption. The Application is provided "AS IS".
+**Communication Charges**:
 
-Accuracy of Information:
+Data communication charges incurred in using this Application (including API and Firebase communications) shall be borne by the user.
 
-The Service Provider does not guarantee the accuracy, completeness, or timeliness of the information provided by the Application, including location data (GPS), maps, or Street View hints.
+**Service Interruption**:
 
-Communication Fees:
+The Service Provider may temporarily suspend or terminate the provision of this Application without prior notice due to maintenance, server failures, or other reasons.
 
-The User is responsible for any data communication fees incurred when using the Application (including API and Firebase communications).
+## Article 6 (Personal Information)
 
-Service Interruption:
+The handling of users' personal information obtained through the use of this Application shall be in accordance with the separately established "Geo Wander Privacy Policy".
 
-The Service Provider may temporarily suspend or terminate the provision of the Application without prior notice to maintenance, server failure, or other reasons.
+## Article 7 (Changes to These Terms)
 
-Article 7 (Personal Information)
-The handling of Users' personal information acquired through the use of the Application shall be governed by the separately established "Geo Wander Privacy Policy".
+The Service Provider may change these Terms without prior notice to users when deemed necessary.
 
-Article 8 (Changes to these Terms)
-The Service Provider may modify these Terms without prior notice to the User if deemed necessary.
+The amended Terms shall take effect from the time they are posted within this Application or on a website operated by the Service Provider (e.g., GitHub Pages).
 
-The modified Terms shall become effective from the time they are posted within the Application or on the website operated by the Service Provider (e.g., GitHub Pages).
+If a user uses this Application after the Terms have been changed, they shall be deemed to have agreed to the amended Terms.
 
-If a User uses the Application after the Terms have been modified, the User is deemed to have agreed to the modified Terms.
+## Article 8 (Governing Law and Jurisdiction)
 
-Article 9 (Governing Law and Jurisdiction)
-These Terms shall be governed by the laws of Japan.
+These Terms shall be governed by Japanese law.
 
-Any and all disputes arising out of or in connection with these Terms or the Application shall be submitted to the exclusive jurisdiction of the Tokyo District Court in the first instance.
+Any disputes arising in connection with these Terms or this Application shall be subject to the exclusive jurisdiction of the Tokyo District Court as the court of first instance.
 
-End
+---
 
-Effective Date: November 6, 2025 Service Provider: SOICHI SATO Contact: soichibuild@gmail.com
+**Effective Date**: November 23, 2025  
+**Service Provider**: SOICHI SATO  
+**Contact**: soichibuild@gmail.com
+
