@@ -6,9 +6,9 @@ This privacy policy applies to the Geo Wander app (hereby referred to as "Applic
 
 The Application collects information when you use it. This may include:
 
-- **Game session data** (e.g., gameplay results, timestamps, distance/steps, target location, guess location, area radius, area difficulty, area location)
 - **Precise geolocation** (latitude and longitude) necessary for gameplay
 - **Steps data** from your device's motion sensors (via Pedometer) to track steps taken during gameplay
+- **Photos** captured in-app (processed locally to generate share images)
 
 The Application collects your device's location solely to enable core gameplay features, including:
 
@@ -18,13 +18,9 @@ The Application collects your device's location solely to enable core gameplay f
 
 The Application does not use location for advertising.
 
-## Photo Handling
-
-Photos captured in-app are processed locally to generate share images. The Application does not upload photo content to servers. Only a local device URI (photo metadata) may be referenced within your game session data. This URI is stored locally on your device and may become invalid if the local file is removed or the app is reinstalled.
-
 ## Third Party Access
 
-For functionality, certain User Provided Data (e.g., identifiers, subscription status) is transmitted to RevenueCat for subscription management. Game session data, location, steps data, and photo content are stored locally on your device and are not transmitted to third-party services. The Service Provider may share your information with third parties in the ways described in this privacy statement.
+For functionality, certain User Provided Data (e.g., identifiers, subscription status) is transmitted to RevenueCat for subscription management. Location, steps data, photo content, and game history are stored locally on your device and are not transmitted to third-party services. The Service Provider may share your information with third parties in the ways described in this privacy statement.
 
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
@@ -43,7 +39,7 @@ You can stop all collection of information by the Application easily by uninstal
 
 ## Data Retention Policy
 
-Game session data is stored locally on your device and can be deleted by uninstalling the Application. If you'd like to delete subscription information (RevenueCat), please contact us at soichibuild@gmail.com and we will respond within a reasonable time.
+Location, steps data, photo metadata, and game history are stored locally on your device and can be deleted by uninstalling the Application. If you'd like to delete subscription information (RevenueCat), please contact us at soichibuild@gmail.com and we will respond within a reasonable time.
 
 ## Children
 
