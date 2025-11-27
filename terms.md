@@ -16,7 +16,7 @@ This Application offers a free "Free Plan" and a paid "Pro Plan".
 
 **Free Plan**: Gameplay is limited to once per day, and playable areas are restricted to a "350m" radius only.
 
-**Pro Plan**: Gameplay frequency restrictions are removed, and all playable ranges (250m, 350m, 750m, 1500m) become selectable.
+**Pro Plan**: Gameplay is limited to 100 times per month, and all playable ranges (250m, 350m, 750m, 1500m) become selectable.
 
 **Photo Handling**: Photos captured within the app are used locally (on the device) to generate share images and are not uploaded to servers.
 
@@ -78,7 +78,7 @@ The Service Provider does not guarantee the accuracy, completeness, or timelines
 
 **Communication Charges**:
 
-Data communication charges incurred in using this Application (including API and Firebase communications) shall be borne by the user.
+Data communication charges incurred in using this Application (including API communications) shall be borne by the user.
 
 **Service Interruption**:
 
